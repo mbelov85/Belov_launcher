@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Belov_Launcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_selector">AppsActivity</string>
+    <string name="action_add">Add apps</string>
+    <string name="action_list">List view</string>
+    <string name="action_grid">Grid view</string>
+    <string name="title_activity_desktop">MainActivity</string>
+    <string name="about">About</string>
+    <string name="uninstall">Uninstall</string>
+</resources>
+

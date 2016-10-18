@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mbelov.android.study.belov_launcher.AppsListActivity">
+    <item
+        android:id="@+id/action_list"
+        android:orderInCategory="100"
+        android:title = "item1" />
+        <!--android:title="@string/action_list"-->
+        <!--app:showAsAction="never"-->
+        <!--android:icon="@drawable/ic_format_align_justify_white_36dp"/>-->
+    <item
+        android:id="@+id/action_grid"
+        android:orderInCategory="100"
+        android:title = "item2" />
+        <!--android:title="@string/action_grid"-->
+        <!--app:showAsAction="never"-->
+        <!--android:icon="@drawable/ic_settings_applications_white_36dp"/>-->
+</menu>
